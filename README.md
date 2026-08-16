@@ -1,6 +1,6 @@
 <div align="center">
   
-  # <img width="100" height="100" alt="bot" src="https://github.com/user-attachments/assets/911dc20f-693d-4249-90ad-be3f43f3251e" />
+  # <img width="100" height="100" alt="command-line" src="https://github.com/user-attachments/assets/6db31ed2-65ef-4bda-8a1d-1d9ec38eacc5" />
  HIBM – High Intelligence Bot Manager
   
   **HIBM is an advanced, ultra-high-performance runtime engine and update manager for Discord bots, designed for zero-downtime hot-reloads and extreme efficiency on Pterodactyl.**
